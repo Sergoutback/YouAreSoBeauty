@@ -622,7 +622,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: f81f0d05978362a4bb3fc217548b77fe, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 9d8e2236722679a48865ff8704a6c514, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -908,19 +908,19 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 60
-    m_FontStyle: 3
+    m_Font: {fileID: 12800000, guid: a0c27eaac63239d4b820cc453cb70dca, type: 3}
+    m_FontSize: 100
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 6
-    m_MaxSize: 80
+    m_MaxSize: 105
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Load Gallery
+  m_Text: Gallery
 --- !u!222 &1106172928
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1096,7 +1096,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: f81f0d05978362a4bb3fc217548b77fe, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 9d8e2236722679a48865ff8704a6c514, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -1463,19 +1463,21 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 60
-    m_FontStyle: 3
+    m_Font: {fileID: 12800000, guid: a0c27eaac63239d4b820cc453cb70dca, type: 3}
+    m_FontSize: 80
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 6
-    m_MaxSize: 80
+    m_MaxSize: 105
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Am I Beauty?
+  m_Text: 'Am I
+
+    Beauty?'
 --- !u!222 &1879585741
 CanvasRenderer:
   m_ObjectHideFlags: 0
